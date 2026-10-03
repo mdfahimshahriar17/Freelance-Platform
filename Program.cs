@@ -16,7 +16,7 @@ namespace P_219934_MD_FAHIM_SHAHRIAR_Freelancer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Forms.Freelancer.BrowseProjectsForm());
         }
     }
 }
